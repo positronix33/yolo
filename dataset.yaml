@@ -1,0 +1,6 @@
+train: ../maitreyi/images/train
+val: ../maitreyi/images/val
+
+nc: 1
+names: ['text_region']
+
